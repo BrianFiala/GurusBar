@@ -1,2 +1,2 @@
 # Software Gurus Bar
-Java 1C Software Gurus Bar
+Priority queue implemented in Java
